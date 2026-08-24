@@ -22,6 +22,9 @@ Cette organisation regroupe l'ensemble des **supports pédagogiques**, **atelier
 
 Chaque dépôt correspond à une **séquence de formation** ou un **TP autonome** : le code y est volontairement clair, commenté pédagogiquement et pensé pour être repris, forké et complété par les apprenant·e·s.
 
+> [!WARNING]
+> Certains dépôts sont anciens et peuvent contenir des dépendances ou des pratiques qui ne sont plus tout à fait à jour. Si vous repérez quelque chose à corriger ou à moderniser, **ouvrez une issue** sur le dépôt concerné : c'est le meilleur moyen de la faire remonter et de la traiter.
+
 <br/>
 
 ## 🧰 Stack enseignée
