@@ -3,13 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Antho-Instructor&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Ateliers%20et%20projets%20p%C3%A9dagogiques%20pour%20apprendre%20le%20dev%20web&descAlignY=52&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/Antho-Instructor">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Formateur+d%C3%A9veloppement+web+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;JavaScript+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Node;44+d%C3%A9p%C3%B4ts+p%C3%A9dagogiques+ouverts+%F0%9F%93%9A;Ateliers%2C+TP%2C+CTF+%26+projets+fil-rouge;title=Antho%20-%20les%20bons%20repos&font=Fira%20Code&size=22&pause=1800&color=22D3EE&center=true&vCenter=true&width=650&height=45"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Formateur+d%C3%A9veloppement+web+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;JavaScript+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Node;32+d%C3%A9p%C3%B4ts+p%C3%A9dagogiques+ouverts+%F0%9F%93%9A;Ateliers%2C+TP+%26+projets+fil-rouge;title=Antho%20-%20les%20bons%20repos&font=Fira%20Code&size=22&pause=1800&color=22D3EE&center=true&vCenter=true&width=650&height=45"/>
 </a>
 
 <br/>
 
 [![Profil GitHub](https://img.shields.io/badge/GitHub-Antho--Instructor-181717?style=for-the-badge&logo=github)](https://github.com/Antho-Instructor)
-![Repos publics](https://img.shields.io/badge/d%C3%A9p%C3%B4ts%20publics-33-6366F1?style=for-the-badge)
+![Repos publics](https://img.shields.io/badge/d%C3%A9p%C3%B4ts%20publics-32-6366F1?style=for-the-badge)
 ![Localisation](https://img.shields.io/badge/%F0%9F%93%8D-France-22D3EE?style=for-the-badge)
 
 </div>
@@ -31,7 +31,7 @@ Chaque dépôt correspond à une **séquence de formation** ou un **TP autonome*
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,angular,nodejs,express,ruby,rails,php,jest,supabase,vscode,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nodejs,express,ruby,jest,supabase,vscode,git,github&theme=dark" />
 
 </div>
 
@@ -66,14 +66,11 @@ Les dépôts les plus repris par la communauté (forks/stars) :
 </details>
 
 <details>
-<summary><b>🔐 Sécurité & CTF</b></summary>
+<summary><b>🔐 Sécurité web</b></summary>
 <br/>
 
 | Dépôt | Description |
 |---|---|
-| [WCS-ctf](https://github.com/Antho-Instructor/WCS-ctf) | Capture The Flag pédagogique orienté sécurité web |
-| [secutity-contest](https://github.com/Antho-Instructor/secutity-contest) | Challenge de sécurité applicative en PHP |
-| [escape-code](https://github.com/Antho-Instructor/escape-code) | Escape game pédagogique en Twig/PHP |
 | [TP_BruteForce](https://github.com/Antho-Instructor/TP_BruteForce) | TP de démonstration d'une attaque par force brute |
 | [TP_BruteForce_Hack](https://github.com/Antho-Instructor/TP_BruteForce_Hack) | Variante avancée du TP de sensibilisation au bruteforce |
 | [Authentification](https://github.com/Antho-Instructor/Authentification) | Atelier d'implémentation d'authentification sécurisée |
@@ -88,15 +85,12 @@ Les dépôts les plus repris par la communauté (forks/stars) :
 |---|---|
 | [deploiement_frontend](https://github.com/Antho-Instructor/deploiement_frontend) | Atelier de mise en production d'une application front |
 | [deploiement_backend](https://github.com/Antho-Instructor/deploiement_backend) | Atelier de déploiement d'une API backend |
-| [odyssey_frontend](https://github.com/Antho-Instructor/odyssey_frontend) | Projet fil-rouge "Odyssey" — partie front |
-| [odyssey_backend](https://github.com/Antho-Instructor/odyssey_backend) | Projet fil-rouge "Odyssey" — partie back (Ruby) |
-| [TP-Full-backend](https://github.com/Antho-Instructor/TP-Full-backend) | TP backend complet (API, routes, logique métier) |
 | [findYourHome](https://github.com/Antho-Instructor/findYourHome) | Projet fil-rouge type plateforme immobilière |
 
 </details>
 
 <details>
-<summary><b>⚛️ React, Angular & écosystème front avancé</b></summary>
+<summary><b>⚛️ React & écosystème front avancé</b></summary>
 <br/>
 
 | Dépôt | Description |
@@ -105,7 +99,6 @@ Les dépôts les plus repris par la communauté (forks/stars) :
 | [OC_Kasa](https://github.com/Antho-Instructor/OC_Kasa) | Projet de location immobilière en React/SCSS |
 | [react_native](https://github.com/Antho-Instructor/react_native) | Initiation à React Native avec Expo |
 | [redux-toolkit](https://github.com/Antho-Instructor/redux-toolkit) | Atelier de gestion d'état avec Redux Toolkit |
-| [angular-projet-2](https://github.com/Antho-Instructor/angular-projet-2) | Second projet de mise en pratique Angular |
 | [pesca](https://github.com/Antho-Instructor/pesca) | Projet applicatif en TypeScript |
 | [e-commerce_context](https://github.com/Antho-Instructor/e-commerce_context) | Atelier gestion d'état via React Context sur un e-commerce |
 | [supabase-init](https://github.com/Antho-Instructor/supabase-init) | Initiation à Supabase (BaaS) en TypeScript |
@@ -120,7 +113,6 @@ Les dépôts les plus repris par la communauté (forks/stars) :
 | Dépôt | Description |
 |---|---|
 | [html-css-basics](https://github.com/Antho-Instructor/html-css-basics) | Bases de la mise en page HTML/CSS |
-| [welcome-on-board](https://github.com/Antho-Instructor/welcome-on-board) | Atelier d'accueil / onboarding CSS |
 | [Atelier-calculatrice](https://github.com/Antho-Instructor/Atelier-calculatrice) | Construction d'une calculatrice en JS vanilla |
 | [mission-integrateur](https://github.com/Antho-Instructor/mission-integrateur) | Mission d'intégration HTML/CSS |
 | [state-and-props](https://github.com/Antho-Instructor/state-and-props) | Atelier sur la gestion du state et des props |
@@ -133,7 +125,6 @@ Les dépôts les plus repris par la communauté (forks/stars) :
 | [js2ts](https://github.com/Antho-Instructor/js2ts) | Migration d'un projet JS vers TS |
 | [Express-TS](https://github.com/Antho-Instructor/Express-TS) | Premier serveur Express en TypeScript |
 | [katas](https://github.com/Antho-Instructor/katas) | Katas de code pour s'entraîner en JavaScript |
-| [js-checkpoint1](https://github.com/Antho-Instructor/js-checkpoint1) · [js-checkpoint2](https://github.com/Antho-Instructor/js-checkpoint2) · [js-checkpoint3](https://github.com/Antho-Instructor/js-checkpoint3) | Série de checkpoints JavaScript/TypeScript |
 
 </details>
 
@@ -143,13 +134,11 @@ Les dépôts les plus repris par la communauté (forks/stars) :
 
 <div align="center">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-15%20repos-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-9%20repos-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![HTML](https://img.shields.io/badge/HTML-8%20repos-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![Ruby](https://img.shields.io/badge/Ruby-3%20repos-CC342D?style=flat-square&logo=ruby&logoColor=fff)
-![CSS/SCSS](https://img.shields.io/badge/CSS%2FSCSS-4%20repos-CC6699?style=flat-square&logo=sass&logoColor=fff)
-![Twig](https://img.shields.io/badge/Twig-2%20repos-8DC63F?style=flat-square)
-![PHP](https://img.shields.io/badge/PHP-1%20repo-777BB4?style=flat-square&logo=php&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-13%20repos-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-6%20repos-3178C6?style=flat-square&logo=typescript&logoColor=fff)
+![HTML](https://img.shields.io/badge/HTML-6%20repos-E34F26?style=flat-square&logo=html5&logoColor=fff)
+![Ruby](https://img.shields.io/badge/Ruby-2%20repos-CC342D?style=flat-square&logo=ruby&logoColor=fff)
+![CSS/SCSS](https://img.shields.io/badge/CSS%2FSCSS-3%20repos-CC6699?style=flat-square&logo=sass&logoColor=fff)
 
 </div>
 
