@@ -58,7 +58,6 @@ Les dépôts les plus repris par la communauté (forks/stars) :
 |---|---|
 | [workshop-react-router](https://github.com/Antho-Instructor/workshop-react-router) | Atelier sur le routage côté client avec React Router |
 | [workshop-react](https://github.com/Antho-Instructor/workshop-react) | Atelier de prise en main de React |
-| [workshop-theme](https://github.com/Antho-Instructor/workshop-theme) | Thème Jekyll utilisé pour la page des ateliers Antho-Instructor |
 | [cp-react](https://github.com/Antho-Instructor/cp-react) | Checkpoint / mise en pratique React en TypeScript |
 
 </details>
