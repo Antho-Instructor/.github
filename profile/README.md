@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Antho-Instructor&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Ateliers%20%26%20projets%20p%C3%A9dagogiques%20pour%20apprendre%20le%20dev%20web&descAlignY=52&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=220&section=header&text=Antho-Instructor&fontSize=52&fontColor=ffffff&fontAlignY=35&desc=Ateliers%20et%20projets%20p%C3%A9dagogiques%20pour%20apprendre%20le%20dev%20web&descAlignY=52&descSize=18&animation=fadeIn" width="100%"/>
 
 <a href="https://github.com/Antho-Instructor">
   <img src="https://readme-typing-svg.demolab.com/?lines=Formateur+d%C3%A9veloppement+web+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;JavaScript+%C2%B7+TypeScript+%C2%B7+React+%C2%B7+Node;44+d%C3%A9p%C3%B4ts+p%C3%A9dagogiques+ouverts+%F0%9F%93%9A;Ateliers%2C+TP%2C+CTF+%26+projets+fil-rouge;title=Antho%20-%20les%20bons%20repos&font=Fira%20Code&size=22&pause=1800&color=22D3EE&center=true&vCenter=true&width=650&height=45"/>
